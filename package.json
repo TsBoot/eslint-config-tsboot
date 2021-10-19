@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-tsboot",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/TsBoot/eslint-config-tsboot.git",
+  "author": "gaoyi <gaoyia@qq.com>",
+  "license": "MIT"
+}
