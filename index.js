@@ -178,7 +178,7 @@ module.exports = {
     "@typescript-eslint/type-annotation-spacing": [
       "error",
       {
-        "before": true,
+        "before": false,
         "after": true
       }
     ],
